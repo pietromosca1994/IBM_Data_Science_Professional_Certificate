@@ -29,3 +29,6 @@ IBM Data Science Professional Certificate offered on [coursera](https://www.cour
     + Explain what is an INNER JOIN and practice hands-on
     + Distinguish between different types of OUTER JOINs and apply your understanding
   + *Week 4*
+    + Demonstrate effective use of formulating SQL queries
+    + Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
+    + Demonstrate skill in retrieving SQL query results and analyzing data
