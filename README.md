@@ -32,3 +32,14 @@ IBM Data Science Professional Certificate offered on [coursera](https://www.cour
     + Demonstrate effective use of formulating SQL queries
     + Demonstrate use of invoking SQL queries from Jupyter notebooks using Python
     + Demonstrate skill in retrieving SQL query results and analyzing data
+    
+## Data Visualization with Python
+  + *Week 1*
+    + Learn about data visualization and some of the best practices to keep in mind when creating plots and visuals.
+    + Learn about the history and the architecture of Matplotlib.
+    + Learn about basic plotting with Matplotlib.
+    + Learn about the dataset on immigration to Canada, which will be used extensively throughout the course.
+    + Briefly learn how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe.
+    + Learn how to generate line plots using Matplotlib.
+  + *Week 2*
+  + *Week 3*
