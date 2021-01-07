@@ -42,4 +42,16 @@ IBM Data Science Professional Certificate offered on [coursera](https://www.cour
     + Briefly learn how to read csv files into a pandas dataframe and process and manipulate the data in the dataframe.
     + Learn how to generate line plots using Matplotlib.
   + *Week 2*
+    + Learn about area plots, and how to create them with Matplotlib.
+    + Learn about histograms, and how to create them with Matplotlib.
+    + Learn about bar charts, and how to create them with Matplotlib.
+    + Learn about pie charts, and how to create them with Matplotlib.
+    + Learn about box plots, and how to create them with Matplotlib.
+    + Learn about scatter plots and bubble plots, and how to create them with Matplotlib.
   + *Week 3*
+    + Learn about advanced visualization tools such as waffle charts and word clouds, and how to create them.
+    + Learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots.
+    + Learn about Folium, which is another visualization library, designed especially for visualizing geospatial data.
+    + Learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map.
+    + Learn how to use Folium to create choropleth maps.
+  
